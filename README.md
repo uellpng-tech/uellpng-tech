@@ -29,3 +29,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/uellpng-tech/uellpng-tech/output/snake.svg" alt="Snake animation" />
+
+###
