@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estou aprendendo MySQL e Java <br>🎯 Objetivos: adquirir conhecimento e obter habilidades novas<br>🎲 Curiosidade: Eu amo gatos 😼✨💖</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estou aprendendo MySQL e C++ <br>🎯 Objetivos: adquirir conhecimento e obter habilidades novas<br>🎲 Curiosidade: Eu amo gatos 😼✨💖</p>
 
 ###
 
