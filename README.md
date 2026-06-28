@@ -21,3 +21,17 @@ Sou estudante de Tecnologia da Informação e atualmente curso o 1º ano do Téc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
+
+<h2 align="left">🌐 Conecte-se comigo</h2>
+
+<div data-importer="socials" align="left">
+  <a href="https://tryhackme.com/p/uell.png" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://wa.me/qr/Q6RF2H3Y6TOHP1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:uell.png@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
