@@ -34,4 +34,7 @@ Sou estudante de Tecnologia da Informação e atualmente curso o 1º ano do Téc
   <a href="mailto:uell.png@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/emanuell-honorio-de-souza-5a0a44439/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
